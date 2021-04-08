@@ -6,3 +6,13 @@ Now File 3 is being changed by master 3
 Now File 3 is being changed by master 3
 Now File 3 is being changed by master 3
 Now File 3 is being changed by master 3
+Changes done from branch b1
+Changes done from branch b1
+
+Changes done from branch b1
+
+Changes done from branch b1
+
+Changes done from branch b1
+
+Changes done from branch b1
